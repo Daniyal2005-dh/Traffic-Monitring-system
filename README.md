@@ -119,16 +119,11 @@ This project helped me understand:
 * Traffic Analytics
 * Computer Vision System Design
 
-## Project Demo
-
-Here are the local video files for the project:
-
-### Input Video
-<video src="./video.mp4" controls="controls" width="600"></video>
+#### Input Video
+[Watch Input Video](./video.mp4)
 
 ### Output Video (Traffic Monitoring in Action)
-<video src="./traffic_output.mp4" controls="controls" width="600"></video>
----
+[Watch Output Video](./traffic_output.mp4)
 
 ## Author
 

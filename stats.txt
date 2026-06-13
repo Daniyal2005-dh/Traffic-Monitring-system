@@ -1,0 +1,7 @@
+ Traffic Analytics Report
+
+Number of car crossed = 0
+Number of bike crossed = 0
+average speed of vehicles  = 0
+Number of vehicles overspeeding = 0
+Maximum speed attained  = 0
